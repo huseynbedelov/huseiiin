@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#ab img{
+    width: 15vw;
+}
+
+
+#ab{
+    width: 40vw;
+    margin: 0 auto;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+
+input{
+    display: block;
+    margin-top: 10px;
+}
+
+
+form .duyme1{
+    background-color: blue;
+    width: 17vw;
+    margin-top: 25px;
+}
+
+
+#bc{
+    background-color: rgb(248, 244, 237);
+    width: 30vw;
+    padding: 40px;
+    margin-left: 65%;
+}
+
+
+p{
+    color: blue;
+}
+
+
+form .duyme2{
+    background-color: lightgreen;
+    margin-top: 20px;
+}
